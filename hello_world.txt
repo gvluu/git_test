@@ -1,0 +1,1 @@
+I am testing Git for the first time in VSCode. Cool!
